@@ -1,4 +1,5 @@
 # Deneme-Web-Sitesi
 Deneme
-
-<img src="text.gif" style="width:445px;height:350px;" alt="VIRTUALZIO" href="home.html">
+<a>
+  <img href="home.html" src="text.gif" style="width:445px;height:350px;" alt="VIRTUALZIO">
+</a>
